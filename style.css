@@ -1,0 +1,21 @@
+.test{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+  
+}
+
+h1,h2{
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    background-image: linear-gradient(#d303d3,#00eeff);
+    height: auto;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
